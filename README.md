@@ -49,10 +49,6 @@ cp .env.example .env
 ```bash
 # development (watch mode)
 npm run start:dev
-
-# production
-npm run build
-npm run start:prod
 ```
 
 Once running:
